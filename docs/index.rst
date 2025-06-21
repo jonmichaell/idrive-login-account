@@ -11,12 +11,11 @@ In today’s digital age, keeping your data safe and accessible is essential. ID
 
 
   
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
-
+   :target: https://idrive.support/login
 
 
   
